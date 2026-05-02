@@ -1,0 +1,8 @@
+land_use,Mean_LST,Max_LST,Mean_NDVI,Mean_ISF,Cell_Count
+Commercial/CBD,41.86,44.19,0.06,0.91,69
+Industrial,41.09,43.54,0.08,0.86,146
+Dense Residential,39.54,42.66,0.12,0.78,439
+Mixed Use,38.0,41.17,0.18,0.6,283
+Sparse Residential,35.45,38.82,0.3,0.45,666
+Green Space,30.97,34.67,0.72,0.05,605
+Agricultural,30.46,33.73,0.65,0.1,292

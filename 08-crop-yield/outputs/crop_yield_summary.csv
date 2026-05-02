@@ -1,0 +1,9 @@
+crop,cells,area_ha,mean_actual_yield,mean_potential_yield,mean_yield_gap_pct
+Maize,1109,110900,4.01,5.34,25.0
+Rice,413,41300,3.53,4.19,15.6
+Sorghum,671,67100,1.97,3.08,38.3
+Millet,252,25200,1.24,1.69,27.0
+Cassava,274,27400,2.8,5.57,50.0
+Groundnut,454,45400,1.42,2.03,32.1
+Tomato,283,28300,12.17,21.03,42.1
+Onion,144,14400,8.69,14.11,38.3

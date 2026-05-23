@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-10 professional geospatial analysis projects addressing real-world African development challenges — from disaster response to food security, each producing publication-quality maps and actionable insights.
+10 professional geospatial analysis projects addressing real-world African development challenges, from disaster response to food security, each producing publication-quality maps and actionable insights.
 
 ---
 
@@ -49,5 +49,5 @@ pip install -r requirements.txt
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
